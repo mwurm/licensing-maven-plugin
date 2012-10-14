@@ -38,6 +38,11 @@
 			<name>JAmes Atwill</name>
 			<email>jatwill+licensingmavenplugin@linuxstuff.org</email>
 		</developer>
+		<developer>
+			<id>matthias.wurm</id>
+			<name>Matthias Wurm</name>
+			<email>matthias.wurm@gmail.com</email>
+		</developer>
 	</developers>
 
 	<properties>
